@@ -115,3 +115,13 @@ kramed:
   breaks: true
   smartLists: true
   smartypants: true
+
+# 整合 utterances 评论
+utterance:
+  enable: true
+  # 仓库名字，格式：[user-name]/[repo-name]，如：lanweihong/utterance_repo
+  repo: Junb0Dong/Website-Comments
+  # 主题
+  theme: github-light
+  # 映射配置
+  issue_term: pathname

@@ -3,7 +3,7 @@ title: Hexo插入图片
 top: false
 cover: false
 toc: true
-mathjax: false
+mathjax: true
 date: 2024-05-04 21:13:32
 author:
 img:
